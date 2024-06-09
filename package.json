@@ -1,0 +1,41 @@
+{
+  "homepage": "https://Shiv868.github.io/blog_react_tech",
+  "name": "cuteblog-react",
+  "version": "2.1.2",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "2.11.5",
+    "bootstrap": "5.1.3",
+    "firebase": "^10.12.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "5.3.1"
+  },
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "react-scripts": "latest"
+  },
+  "description": "![free download react seo template helmet](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqWAtihYlSV4DsPrCp2O827EMD1JIkyqjamRIHHyIAkWZlrkhbslrRf8R4fwM3W3lBuWmAF7nYD0zbHuRv9ZyAahUiCeWhnLyqzqB1buIHE8zNig88nXCpKf93ugqTkz04zqtT5sDHAz7kM1B0TQizXOCmh5U_uG7GDXurY-SAiHKe3zs_Y_DmYTRhTg/s1920/react%20blog%20free%20download%20source%20code%20gratis%20with%20SEO%20helmet%20(1).jpg>)",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
